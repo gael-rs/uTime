@@ -1,4 +1,4 @@
-<div align="center">
+<div style="text-align: center;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
 # Universidad Peruana de Ciencias Aplicadas
@@ -25,7 +25,8 @@ Abril del 2025
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
-|  |  |  |  |
+| N/A     | N/A   | N/A   | N/A                         |
+
 
 #Project Report Collaboration Insights
 </div>
