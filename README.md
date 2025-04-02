@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
 
 # Universidad Peruana de Ciencias Aplicadas
@@ -15,10 +15,12 @@ Ciclo 2025-01
 
 **Nombre del Producto:** uTime
 
-| Miembro                  | Código     |
-|--------------------------|------------|
-| Yum Gonzales, Jorge Suin | U202210838 |
-| Kevin Jorge, Chi Cruzatt | U202313655 |
+| Miembro                   | Código     |
+|---------------------------|------------|
+| Yum Gonzales, Jorge Suin  | U202210838 |
+| Chi Cruzatt, Kevin Jorge  | U202313655 |
+| Rivera Sosa, Eduardo Gael | U202312222 |
+| Yalán Zhang, Angie Christina   | U202312504 |
 
 Abril del 2025
 
@@ -34,3 +36,5 @@ Abril del 2025
 #Contenido
 
 #Student Outcomes
+
+
