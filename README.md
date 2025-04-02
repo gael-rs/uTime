@@ -15,10 +15,10 @@ Ciclo 2025-01
 
 **Nombre del Producto:** uTime
 
-| Miembro | Código |
-| --- | --- |
+| Miembro                  | Código     |
+|--------------------------|------------|
 | Yum Gonzales, Jorge Suin | U202210838 |
-| nombre | codigo |
+| Kevin Jorge, Chi Cruzatt | U202313655 |
 
 Abril del 2025
 
